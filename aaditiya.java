@@ -4,7 +4,7 @@ public class aaditiya {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int a = 0, b = 1, sum = 0;
-        while(n>0){         
+        while(n>0){        
                          
             int  c = a + b;
             a = b;
